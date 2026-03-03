@@ -32,3 +32,6 @@ const arr = ["hello", "world", "how"];
 const myfunction = function(){
     console.log("hello danial");
 }
+
+// ************************************************
+//  stack (premitive), heap (non premitive)
